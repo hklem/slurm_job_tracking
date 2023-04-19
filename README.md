@@ -16,3 +16,10 @@ To install and use:
 This is what it looks like when you run the command and a job has ended since the last time the command was run:
 
 ![](jobcheck.png)
+
+
+Future Additions
+----------------
+If you have any ideas please let me know!
+- Email triggers
+- Functionality across multiple machines to log and track all jobs
