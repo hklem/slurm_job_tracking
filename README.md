@@ -6,7 +6,6 @@ A Python script that will allow you to track completion of slurm jobs. Especiall
 To install and use:
 
 * Copy jobcheck.py to machine
-    - https://github.com/hklem/slurm_job_tracking/jobcheck.py
     - You can copy the file anywhere; I chose my home directory.
     
 * (optional) Add alias to your .bashrc >> alias sq 'python ~/jobcheck.py'
