@@ -1,5 +1,3 @@
-.. |running_example| image:: https://github.com/hklem/slurm_job_tracking/jobcheck.png
-
 Slurm Job Tracking
 ------------------
 
@@ -13,5 +11,9 @@ To install and use:
     
 * (optional) Add alias to your .bashrc >> alias sq 'python ~/jobcheck.py'
 * Run command
-    - When you run for the first time, the script initializes and logs current job information. Thereafter it will work like normal:    
-.. centered:: |running_example|
+    - When you run for the first time, the script initializes and logs current job information.
+    - Note you should run the command everytime aftet you submit jobs, or else it won't log current job info.   
+    
+This is what it looks like when you run the command and a job has ended since the last time the command was run:
+
+![](image_url)
