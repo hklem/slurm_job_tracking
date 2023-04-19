@@ -23,3 +23,5 @@ Future Additions
 If you have any ideas please let me know!
 - Email triggers
 - Functionality across multiple machines to log and track all jobs
+- Combination with aqme qcorr to automate job resubmissions if failed QM calc
+- Sleep timer so the job will run in the background without prompting
