@@ -15,4 +15,4 @@ To install and use:
     
 This is what it looks like when you run the command and a job has ended since the last time the command was run:
 
-![](https://github.com/hklem/slurm_job_tracking/blob/main/jobcheck.png)
+![](jobcheck.png)
