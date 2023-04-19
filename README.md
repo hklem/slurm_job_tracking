@@ -16,4 +16,4 @@ To install and use:
     
 This is what it looks like when you run the command and a job has ended since the last time the command was run:
 
-![](image_url)
+![](https://github.com/hklem/slurm_job_tracking/jobcheck.png)
