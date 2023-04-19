@@ -1,4 +1,4 @@
-.. |running_example| image:: jobcheck.png
+.. |running_example| image:: https://github.com/hklem/slurm_job_tracking/jobcheck.png
 
 Slurm Job Tracking
 ------------------
